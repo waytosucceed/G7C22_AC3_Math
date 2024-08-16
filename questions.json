@@ -1,0 +1,240 @@
+[
+  {
+    "questionNo": "Q1",
+    "question": "Dr. Hayes pointed out a crucial spot 'A' on the map where the rain gauge was installed. Can you pinpoint its coordinates?",
+    "options": [
+      "(2,3)",
+      "(3,2)",
+      "(0,3)",
+      "(2,0)"
+    ],
+    "correct": 1,
+    "img": "./assests/images/1.jpg"
+  },
+  {
+    "questionNo": "Q2",
+    "question": "Claire recorded the coordinates of point H, which corresponds to the location of the wind speed monitor. What are these coordinates?",
+    "options": [
+      "(-3,-2)",
+      "(-2,-3)",
+      "(-2,0)",
+      "(-3,0)"
+    ],
+    "correct": 0,
+    "img": "./assests/images/2.jpg"
+  },
+  {
+    "questionNo": "Q3",
+    "question": "Point C was marked on the map for the temperature sensor. Can you find its coordinates?",
+    "options": [
+      "(-1,5)",
+      "(5,0)",
+      "(-1,0)",
+      "(5,–1)"
+    ],
+    "correct": 3,
+    "img": "./assests/images/3.jpg"
+  },
+  {
+    "questionNo": "Q4",
+    "question": "Point G was identified as the location of the humidity sensor. What are the coordinates of point G?",
+    "options": [
+      "(0,-2)",
+      "(2,-5)",
+      "(–5,–2)",
+      "(-2,-5)"
+    ],
+    "correct": 2,
+    "img": "./assests/images/4.jpg"
+  },
+  {
+    "questionNo": "Q5",
+    "question": "During their visit, Claire noted the coordinates of point D, which is where the wind speed monitor is placed. What are these coordinates?",
+    "options": [
+      "(0,1)",
+      "(1,1)",
+      "(1,0)",
+      "(1,-1)"
+    ],
+    "correct": 2,
+    "img": "./assests/images/5.jpg"
+  },
+  {
+    "questionNo": "Q6",
+    "question": "The temperature sensor was located at point E on the map. Can you determine the coordinates of point E?",
+    "options": [
+      "(5,3)",
+      "(4,4)",
+      "(4,3)",
+      "(3,4)"
+    ],
+    "correct": 2,
+    "img": "./assests/images/6.jpg"
+  },
+  {
+    "questionNo": "Q7",
+    "question": "Alex noticed a point with coordinates (-2,5) on the map. Which point is located at these coordinates?",
+    "options": [
+      "Q",
+      "R",
+      "S",
+      "T"
+    ],
+    "correct": 3,
+    "img": "./assests/images/7.jpg"
+  },
+  {
+    "questionNo": "Q8",
+    "question": "Claire was examining the point with coordinates (-1,1). Which point does this correspond to?",
+    "options": [
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "correct": 0,
+    "img": "./assests/images/8.jpg"
+  },
+  {
+    "questionNo": "Q9",
+    "question": "In a corner of the map, Alex found a point at (–5,–4). Which point does this coordinate refer to?",
+    "options": [
+      "T",
+      "U",
+      "V",
+      "W"
+    ],
+    "correct": 0,
+    "img": "./assests/images/9.jpg"
+  },
+  {
+    "questionNo": "Q10",
+    "question": "A notable coordinate on the map is (0,4). Which weather station sensor is located here?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 3,
+    "img": "./assests/images/10.jpg"
+  },
+  {
+    "questionNo": "Q11",
+    "question": "Dr. Hayes pointed out a sensor at coordinates (2,0). Which point represents this location on the map?",
+    "options": [
+      "D",
+      "E",
+      "F",
+      "G"
+    ],
+    "correct": 1,
+    "img": "./assests/images/11.jpg"
+  },
+  {
+    "questionNo": "Q12",
+    "question": "Imagine the rain gauge point A on the Cartesian plane. In which quadrant does this point fall?",
+    "options": [
+      "1st quadrant",
+      "2nd quadrant",
+      "3rd quadrant",
+      "4th quadrant"
+    ],
+    "correct": 0,
+    "img": "./assests/images/12.jpg"
+  },
+  {
+    "questionNo": "Q13",
+    "question": "Point E was plotted on the map during their visit. Can you identify which quadrant it occupies?",
+    "options": [
+      "1st quadrant",
+      "2nd quadrant",
+      "3rd quadrant",
+      "4th quadrant"
+    ],
+    "correct": 1,
+    "img": "./assests/images/13.jpg"
+  },
+  {
+    "questionNo": "Q14",
+    "question": "The humidity sensor, represented by point F, was situated somewhere on the map. In which quadrant is this point located?",
+    "options": [
+      "1st quadrant",
+      "2nd quadrant",
+      "3rd quadrant",
+      "4th quadrant"
+    ],
+    "correct": 3,
+    "img": "./assests/images/14.jpg"
+  },
+  {
+    "questionNo": "Q15",
+    "question": "During their analysis, Alex questioned whether the wind speed monitor (point B) is in the 3rd quadrant. Is this statement True or False?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 0,
+    "img": "./assests/images/15.jpg"
+  },
+  {
+    "questionNo": "Q16",
+    "question": "In the weather station's diagram, what is the y-coordinate of the circle representing one of the sensors?",
+    "options": [
+      "5",
+      "4",
+      "6",
+      "7"
+    ],
+    "correct": 0,
+    "img": "./assests/images/16.jpg"
+  },
+  {
+    "questionNo": "Q17",
+    "question": "Which intriguing shape can be found in Quadrant I of the Cartesian plane based on their weather station data?",
+    "options": [
+      "1.png",
+      "2.png",
+      "3.png",
+      "4.png"
+    ],
+    "correct": 2,
+    "img": "./assests/images/17.jpg"
+  },
+  {
+    "questionNo": "Q18",
+    "question": "What is at (6,1)?",
+    "options": [
+      "Coffee shop",
+      "Hardware shop",
+      "Pet store",
+      "Bicycle shop"
+    ],
+    "correct": 3,
+    "img": "./assests/images/18.jpg"
+  },
+  {
+    "questionNo": "Q19",
+    "question": "Which shape is in the 4th quadrant?",
+    "options": [
+      "Triangle",
+      "Circle",
+      "Rectangle",
+      "Square"
+    ],
+    "correct": 0,
+    "img": "./assests/images/19.jpg"
+  },
+  {
+    "questionNo": "Q20",
+    "question": "Identify the point in the 2nd quadrant and find out the coordinates of that point.",
+    "options": [
+      "(-1,3)",
+      "(-3,4)",
+      "(-3,3)",
+      "(1,-3)"
+    ],
+    "correct": 1,
+    "img": "./assests/images/20.jpg"
+  }
+]
